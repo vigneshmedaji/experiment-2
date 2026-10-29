@@ -28,17 +28,8 @@ To explore Git and GitHub and understand the basic concepts of version control a
 ## Important Git Commands
 
 git --version – Checks the installed Git version.
-
-
-
 git config --global user.name "Name" – Sets your Git username.
-
-
-
 git config --global user.email "email" – Sets your Git email address.
-
-
-
 git init – Initializes a new Git repository.
 git clone <URL> – Copies a remote repository to a local system.
 git status – Displays the current working-tree status.
