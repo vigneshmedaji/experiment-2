@@ -1,0 +1,40 @@
+# Experiment: Explore Git and GitHub
+
+## Aim
+To explore Git and GitHub and understand the basic concepts of version control and repository management.
+
+## Objectives
+1. To understand the fundamentals of Git and GitHub.
+2. To learn how to create and manage repositories.
+3. To understand commits, branches, and merging.
+4. To learn how to track changes and maintain project history.
+5. To explore how projects can be shared and collaborated on using GitHub.
+
+## Requirements
+- A GitHub account
+- A web browser
+- An existing GitHub repository
+
+## Procedure
+1. Log in to GitHub.
+2. Open the existing repository.
+3. Click **Add file** and select **Create new file**.
+4. Enter the filename `Explore-Git-and-GitHub.md`.
+5. Write the experiment details in the editor.
+6. Scroll down to the commit section.
+7. Enter a commit message and save the file to the main branch.
+8. Verify that the experiment file appears in the repository.
+
+## Important Git Commands
+
+- `git init` – Initializes a Git repository.
+- `git add .` – Stages changes for a commit.
+- `git commit -m "message"` – Records changes.
+- `git status` – Displays the working-tree status.
+- `git log` – Displays commit history.
+- `git push` – Uploads commits to a remote repository.
+- `git pull` – Retrieves and integrates remote changes.
+- `git clone` – Copies a remote repository to a local system.
+
+## Result
+Successfully explored Git and GitHub concepts and added the experiment documentation to an existing GitHub repository.
